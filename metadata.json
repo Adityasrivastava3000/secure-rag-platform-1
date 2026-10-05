@@ -1,0 +1,207 @@
+[
+  {
+    "file": "HR-LV-001_Leave_Policy_v3.2.pdf",
+    "doc_id": "HR-LV-001",
+    "title": "Leave Policy",
+    "department": "Human Resources",
+    "version": "3.2",
+    "effective_date": "2025-04-01",
+    "status": "Active",
+    "classification": "Internal",
+    "allowed_roles": [
+      "all_employees"
+    ],
+    "restricted_sections": []
+  },
+  {
+    "file": "HR-LV-001_Leave_Policy_v2.0.pdf",
+    "doc_id": "HR-LV-001",
+    "title": "Leave Policy",
+    "department": "Human Resources",
+    "version": "2.0",
+    "effective_date": "2023-04-01",
+    "status": "Archived (Superseded by v3.2)",
+    "classification": "Internal",
+    "allowed_roles": [
+      "all_employees"
+    ],
+    "restricted_sections": []
+  },
+  {
+    "file": "HR-WFH-002_Work_From_Home_Policy_v2.1.pdf",
+    "doc_id": "HR-WFH-002",
+    "title": "Work From Home Policy",
+    "department": "Human Resources",
+    "version": "2.1",
+    "effective_date": "2025-01-15",
+    "status": "Active",
+    "classification": "Internal",
+    "allowed_roles": [
+      "all_employees"
+    ],
+    "restricted_sections": []
+  },
+  {
+    "file": "HR-COC-003_Code_of_Conduct_v5.0.pdf",
+    "doc_id": "HR-COC-003",
+    "title": "Code of Conduct",
+    "department": "Human Resources",
+    "version": "5.0",
+    "effective_date": "2025-02-01",
+    "status": "Active",
+    "classification": "Internal",
+    "allowed_roles": [
+      "all_employees"
+    ],
+    "restricted_sections": []
+  },
+  {
+    "file": "HR-TRV-004_Travel_Policy_v4.1.pdf",
+    "doc_id": "HR-TRV-004",
+    "title": "Travel Policy",
+    "department": "Human Resources",
+    "version": "4.1",
+    "effective_date": "2025-03-01",
+    "status": "Active",
+    "classification": "Internal",
+    "allowed_roles": [
+      "all_employees"
+    ],
+    "restricted_sections": []
+  },
+  {
+    "file": "HR-BEN-005_Employee_Benefits_v4.0.pdf",
+    "doc_id": "HR-BEN-005",
+    "title": "Employee Benefits",
+    "department": "Human Resources",
+    "version": "4.0",
+    "effective_date": "2025-07-01",
+    "status": "Active",
+    "classification": "Internal",
+    "allowed_roles": [
+      "all_employees"
+    ],
+    "restricted_sections": [
+      {
+        "section": "Section 6",
+        "allowed_roles": [
+          "hr",
+          "executive"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "IT-PWD-001_Password_Policy_v2.4.pdf",
+    "doc_id": "IT-PWD-001",
+    "title": "Password Policy",
+    "department": "Information Technology",
+    "version": "2.4",
+    "effective_date": "2024-11-01",
+    "status": "Active",
+    "classification": "Internal",
+    "allowed_roles": [
+      "all_employees"
+    ],
+    "restricted_sections": []
+  },
+  {
+    "file": "IT-DEV-002_Device_Policy_v3.0.pdf",
+    "doc_id": "IT-DEV-002",
+    "title": "Device Policy",
+    "department": "Information Technology",
+    "version": "3.0",
+    "effective_date": "2025-02-15",
+    "status": "Active",
+    "classification": "Internal",
+    "allowed_roles": [
+      "all_employees"
+    ],
+    "restricted_sections": []
+  },
+  {
+    "file": "IT-SEC-003_Security_Policy_v4.2.pdf",
+    "doc_id": "IT-SEC-003",
+    "title": "Information Security Policy",
+    "department": "Information Technology",
+    "version": "4.2",
+    "effective_date": "2025-05-01",
+    "status": "Active",
+    "classification": "Internal",
+    "allowed_roles": [
+      "all_employees"
+    ],
+    "restricted_sections": [
+      {
+        "section": "Section 8",
+        "allowed_roles": [
+          "it_security"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "IT-IR-004_Incident_Response_v3.1.pdf",
+    "doc_id": "IT-IR-004",
+    "title": "Incident Response Plan",
+    "department": "Information Technology",
+    "version": "3.1",
+    "effective_date": "2025-06-01",
+    "status": "Active",
+    "classification": "Confidential",
+    "allowed_roles": [
+      "it_security",
+      "executive"
+    ],
+    "restricted_sections": []
+  },
+  {
+    "file": "FIN-EXP-001_Expense_Policy_v3.3.pdf",
+    "doc_id": "FIN-EXP-001",
+    "title": "Expense Policy",
+    "department": "Finance",
+    "version": "3.3",
+    "effective_date": "2025-01-01",
+    "status": "Active",
+    "classification": "Internal",
+    "allowed_roles": [
+      "all_employees"
+    ],
+    "restricted_sections": []
+  },
+  {
+    "file": "FIN-RMB-002_Reimbursement_Policy_v2.0.pdf",
+    "doc_id": "FIN-RMB-002",
+    "title": "Reimbursement Policy",
+    "department": "Finance",
+    "version": "2.0",
+    "effective_date": "2025-06-15",
+    "status": "Active",
+    "classification": "Internal",
+    "allowed_roles": [
+      "all_employees"
+    ],
+    "restricted_sections": []
+  },
+  {
+    "file": "FIN-PRC-003_Procurement_Policy_v4.0.pdf",
+    "doc_id": "FIN-PRC-003",
+    "title": "Procurement Policy",
+    "department": "Finance",
+    "version": "4.0",
+    "effective_date": "2025-04-01",
+    "status": "Active",
+    "classification": "Internal",
+    "allowed_roles": [
+      "all_employees"
+    ],
+    "restricted_sections": [
+      {
+        "section": "Section 6",
+        "allowed_roles": [
+          "finance"
+        ]
+      }
+    ]
+  }
+]
