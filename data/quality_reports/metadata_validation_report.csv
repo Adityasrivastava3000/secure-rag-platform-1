@@ -1,0 +1,14 @@
+filename,document_id,version,effective_date,status,classification
+HR-BEN-005_Employee_Benefits_v4.0.pdf,HR-BEN-005,4.0,2025-07-01,Active,Internal
+HR-COC-003_Code_of_Conduct_v5.0.pdf,HR-COC-003,5.0,2025-02-01,Active,Internal
+HR-LV-001_Leave_Policy_v2.0.pdf,HR-LV-001,2.0,2023-04-01,Archived,Internal
+HR-LV-001_Leave_Policy_v3.2.pdf,HR-LV-001,3.2,2025-04-01,Active,Internal
+HR-TRV-004_Travel_Policy_v4.1.pdf,HR-TRV-004,4.1,2025-03-01,Active,Internal
+HR-WFH-002_Work_From_Home_Policy_v2.1.pdf,HR-WFH-002,2.1,2025-01-15,Active,Internal
+IT-DEV-002_Device_Policy_v3.0.pdf,IT-DEV-002,3.0,2025-02-15,Active,Internal
+IT-IR-004_Incident_Response_v3.1.pdf,IT-IR-004,3.1,2025-06-01,Active,Confidential
+IT-PWD-001_Password_Policy_v2.4.pdf,IT-PWD-001,2.4,2024-11-01,Active,Internal
+IT-SEC-003_Security_Policy_v4.2.pdf,IT-SEC-003,4.2,2025-05-01,Active,Internal
+FIN-EXP-001_Expense_Policy_v3.3.pdf,FIN-EXP-001,3.3,2025-01-01,Active,Internal
+FIN-PRC-003_Procurement_Policy_v4.0.pdf,FIN-PRC-003,4.0,2025-04-01,Active,Internal
+FIN-RMB-002_Reimbursement_Policy_v2.0.pdf,FIN-RMB-002,2.0,2025-06-15,Active,Internal

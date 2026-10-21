@@ -1,0 +1,14 @@
+filename,pages,empty_pages,characters,replacement_chars,has_text
+HR-BEN-005_Employee_Benefits_v4.0.pdf,2,0,2249,0,True
+HR-COC-003_Code_of_Conduct_v5.0.pdf,1,0,2138,0,True
+HR-LV-001_Leave_Policy_v2.0.pdf,1,0,832,0,True
+HR-LV-001_Leave_Policy_v3.2.pdf,1,0,2201,0,True
+HR-TRV-004_Travel_Policy_v4.1.pdf,1,0,1777,0,True
+HR-WFH-002_Work_From_Home_Policy_v2.1.pdf,1,0,1886,0,True
+IT-DEV-002_Device_Policy_v3.0.pdf,1,0,1697,0,True
+IT-IR-004_Incident_Response_v3.1.pdf,2,0,2474,0,True
+IT-PWD-001_Password_Policy_v2.4.pdf,1,0,1513,0,True
+IT-SEC-003_Security_Policy_v4.2.pdf,2,0,2553,0,True
+FIN-EXP-001_Expense_Policy_v3.3.pdf,1,0,1474,0,True
+FIN-PRC-003_Procurement_Policy_v4.0.pdf,1,0,1801,0,True
+FIN-RMB-002_Reimbursement_Policy_v2.0.pdf,1,0,1443,0,True
