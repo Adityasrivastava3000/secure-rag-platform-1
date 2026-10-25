@@ -1,0 +1,10 @@
+Question,Method,Recall@5,Precision@5,MRR
+What health benefits do employees receive?,BM25,1.0,0.2,0.3333333333333333
+What health benefits do employees receive?,FAISS,1.0,0.2,0.3333333333333333
+What health benefits do employees receive?,Hybrid RRF,1.0,0.2,0.3333333333333333
+What retirement benefits are available to employees?,BM25,1.0,0.2,0.25
+What retirement benefits are available to employees?,FAISS,1.0,0.2,1.0
+What retirement benefits are available to employees?,Hybrid RRF,1.0,0.2,0.3333333333333333
+What are the employee compensation bands?,BM25,1.0,0.2,0.2
+What are the employee compensation bands?,FAISS,1.0,0.2,0.5
+What are the employee compensation bands?,Hybrid RRF,1.0,0.2,0.3333333333333333
